@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#drum-machine {
+  width: 500px;
+  height: 500px;
+  margin: auto;
+}
+
+#display {
+  font-size: 1.5rem;
+  border: 3px double aqua;
+  width: 150px;
+  margin: auto;
+  padding: 10px;
+}
+
+.drum-pad {
+  padding: 15px;
+  width: 70px;
+  font-weight: bolder;
+  color: white;
+}
